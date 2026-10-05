@@ -1,0 +1,12 @@
+1791215833s 1 https://dandiarchive.s3.amazonaws.com/zarr/b9f44af6-3948-41b5-8237-571a49bfe095/extensions/templates/median/3.3.3?versionId=1YLMJ8B3kwCoGbhpxW6ZM6mUPvigKVRS
+1791215833s 1 https://api.dandiarchive.org/api/zarr/b9f44af6-3948-41b5-8237-571a49bfe095/files?prefix=extensions%2Ftemplates%2Fmedian%2F3.3.3&download=true
+1791215835s 1 https://dandiarchive.s3.amazonaws.com/zarr/b9f44af6-3948-41b5-8237-571a49bfe095/extensions/templates/percentile_1/2.3.3?versionId=bZ2Tm3e1_gzsh_aaXnb.7K3.SfFYHm3j
+1791215835s 1 https://api.dandiarchive.org/api/zarr/b9f44af6-3948-41b5-8237-571a49bfe095/files?prefix=extensions%2Ftemplates%2Fpercentile_1%2F2.3.3&download=true
+1791215836s 1 https://dandiarchive.s3.amazonaws.com/zarr/b9f44af6-3948-41b5-8237-571a49bfe095/extensions/templates/percentile_1/4.3.3?versionId=mJVTU8xOkkxE2q99yFYlidjY0Rp30hPd
+1791215836s 1 https://api.dandiarchive.org/api/zarr/b9f44af6-3948-41b5-8237-571a49bfe095/files?prefix=extensions%2Ftemplates%2Fpercentile_1%2F4.3.3&download=true
+1791215837s 1 https://dandiarchive.s3.amazonaws.com/zarr/b9f44af6-3948-41b5-8237-571a49bfe095/extensions/templates/percentile_25/2.3.3?versionId=qQpThNul82SG2w43bujDuazcGpr7aqcA
+1791215837s 1 https://api.dandiarchive.org/api/zarr/b9f44af6-3948-41b5-8237-571a49bfe095/files?prefix=extensions%2Ftemplates%2Fpercentile_25%2F2.3.3&download=true
+1791215837s 1 https://dandiarchive.s3.amazonaws.com/zarr/b9f44af6-3948-41b5-8237-571a49bfe095/extensions/templates/percentile_25/3.3.3?versionId=otyCCNwOWP5mS0W.YIQyPIp9HpNSqtlJ
+1791215837s 1 https://api.dandiarchive.org/api/zarr/b9f44af6-3948-41b5-8237-571a49bfe095/files?prefix=extensions%2Ftemplates%2Fpercentile_25%2F3.3.3&download=true
+1791215839s 1 https://dandiarchive.s3.amazonaws.com/zarr/b9f44af6-3948-41b5-8237-571a49bfe095/extensions/templates/percentile_75/3.3.3?versionId=DnDha4ncB9Wgxiax3NFhw7GhYE0SjP.7
+1791215839s 1 https://api.dandiarchive.org/api/zarr/b9f44af6-3948-41b5-8237-571a49bfe095/files?prefix=extensions%2Ftemplates%2Fpercentile_75%2F3.3.3&download=true
